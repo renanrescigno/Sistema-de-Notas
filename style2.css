@@ -1,0 +1,23 @@
+body{
+  display: table;
+  background-image: url("Images/Verde1.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+  
+*{
+  color: white;
+  margin: 30;
+  padding: 30;
+  font-family: sans-serif;
+  list-style: none;
+  text-decoration: none;
+ }
+
+.wrapper{  
+  position: absolute;
+  top: 200px;
+  width: 250px;
+  border-radius: 2px;
+  overflow: hidden;
+ }
