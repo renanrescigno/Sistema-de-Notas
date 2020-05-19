@@ -21,4 +21,5 @@ O sistema conta com cadastro de alunos (completo com endereço) e matérias. Ap�
 
 
 RECURSOS UTILIZADOS
+
 PHP, JavaScript, CSS, Bootstrap entre outros
